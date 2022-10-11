@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Created by: Kent Gatera
 # Created on: Oct 05
-# This program checks if a user's integer guess is correct
+# This program checks if a user's integer guess matches the random integer
 
 
 import random
